@@ -1,0 +1,321 @@
+@media only screen and (min-width:1068px){
+
+body{
+  background-color: #DDB36F;
+}
+
+.lbl-menu{
+  display: none;
+}
+
+}
+
+a.activate{
+  color: black;
+}
+
+a.visiate{
+  color: black;
+}
+
+a.interactive{
+  color: gray;
+}
+
+a{
+  color: black;
+  font-size: 25px;
+  text-decoration: none;
+  line-height: 100px;
+}
+
+#header{
+  height: 100px;
+  width: 100%;
+  background-color: #F0932B;
+  background-image: url(IMG/logo2.png);
+  background-position: left;
+  background-size: contain;
+  background-repeat: no-repeat;
+
+}
+
+
+#logo2{
+  height: 100px;
+  width: 100%;
+  margin-top: -120px;
+  background-image: url(IMG/logo.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: contain;
+}
+
+#clogin{
+  background-color: #DDB36F;
+  width: 200px;
+  height: 200px;
+  margin-top: 10px;
+}
+
+#clogin p{
+  font-size: 20px
+}
+
+#clogin M{
+  }
+
+  #Insta{
+    height: 100px;
+    width: 100px;
+    margin-top: 25px;
+    background-image: url(IMG/Instagram.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+  }
+
+  #Insta2{
+    height: 100px;
+    width: 100px;
+    margin-top: 400px;
+    margin-left: 400px;
+    background-image: url(IMG/Instagram.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+  }
+
+#mes_info{
+  margin-left: 675px;
+  background-color: white;
+  text-align: center;
+  font-size: 25px;
+  width: 300px;
+  position: absolute;
+}
+
+
+
+ul{
+  text-align: center;
+  line-height: 100px;
+}
+
+li{
+  display: inline;
+  margin: 15px;
+  background-color: inherit;
+  font-family: fantasy;
+  font-weight: bold;
+}
+
+.cajitas{
+  display:table-column;
+  margin: 10px;
+}
+
+#Lacaverna{
+  margin: auto;
+  width: 1230px;
+  margin-top: -200px;
+  text-align:center;
+}
+
+#img{
+  margin: auto;
+  width: 1500px;
+  margin-left: 200px;
+
+}
+
+#carnes{
+  background-color: white;
+  width: 800px;
+}
+
+#gordo{
+  width: 1200px;
+  background-color: white;
+}
+
+.Pata{
+  margin: auto;
+  width: 100px;
+  margin-left: 75px;
+  display: inline;
+  font-weight: bold;
+}
+
+
+.Camiseta{
+  margin: auto;
+  width: 100px;
+  margin-left: 75px;
+  display: inline;
+  font-weight: bold;
+}
+
+.Taza{
+  margin: auto;
+  width: 100px;
+  margin-left: 75px;
+  display: inline;
+  font-weight: bold;
+}
+
+.Madera{
+  width: 100px;
+  margin-left: 150px;
+  display: inline;
+  font-weight: bold;
+}
+
+
+
+#Broquetes_xai2{
+  width: 100px;
+  margin-left:300px;
+  font-weight: ;
+  float: right;
+}
+
+p#Ingredients_brochetas{
+  margin-left: -500px;
+  margin-top: -700px;
+  text-align: center;
+  float: right;
+}
+
+#pollastre_cerveza{
+  width: 100px;
+  margin-left:300px;
+  font-weight: ;
+  float: right;
+}
+
+p#ingredientes_pollastre{
+  margin-left: -500px;
+  margin-top: -700px;
+  text-align: center;
+  float: right;
+}
+
+#salsa{
+  width: 100px;
+  margin-left:300px;
+  font-weight: ;
+  float: right;
+}
+
+p#Ingredients_salsa{
+  margin-left: -500px;
+  margin-top: -700px;
+  text-align: center;
+  float: right;
+}
+
+#Hamburguesa{
+  width: 100px;
+  margin-left:300px;
+  font-weight: ;
+  float: right;
+}
+
+p#Ingredients_Hamburguesa{
+  margin-left: -500px;
+  margin-top: -700px;
+  text-align: center;
+  float: right;
+}
+
+#Cordero{
+  width: 100px;
+  margin-left:300px;
+  font-weight: ;
+  float: right;
+}
+
+p#Ingredients_cordero{
+  margin-left: -500px;
+  margin-top: -700px;
+  text-align: center;
+  float: right;
+}
+
+#Brocoli{
+  width: 100px;
+  margin-left:300px;
+  font-weight: ;
+  float: right;
+}
+
+p#Ingredients_brocoli{
+  margin-left: -500px;
+  margin-top: -700px;
+  text-align: center;
+  float: right;
+}
+
+#Crema{
+  width: 100px;
+  margin-left:300px;
+  font-weight: ;
+  float: right;
+}
+
+p#Ingredients_Crema{
+  margin-left: -500px;
+  margin-top: -700px;
+  text-align: center;
+  float: right;
+}
+
+#wok{
+  width: 100px;
+  margin-left:300px;
+  font-weight: ;
+  float: right;
+}
+
+p#Ingredients_wok{
+  margin-left: -500px;
+  margin-top: -700px;
+  text-align: center;
+  float: right;
+}
+
+
+
+
+.BROCOLI{
+  width: 100px;
+  margin-left: 75px;
+  display: inline;
+  font-weight: bold;
+}
+
+
+.HAMBURGUESA{
+  margin: auto;
+  width: 100px;
+  margin-left: 75px;
+  display: inline;
+  font-weight: bold;
+}
+
+.CREMA{
+  width: 100px;
+  margin-left: 75px;
+  display: inline;
+  font-weight: bold;
+}
+
+.BROCHETAS{
+  width: 100px;
+  margin-left: 75px;
+  display: inline;
+  font-weight: bold;
+}
+
+body#La_Carn{}
